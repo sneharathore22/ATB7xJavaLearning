@@ -2,6 +2,7 @@ package ex_23;
 
 public class Lab013 {
     public static void main(String[]args){
-        System.out.println(456);
+        String name = "Jeevan";
+        System.out.println("Hey "+ name);
     }
 }
