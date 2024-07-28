@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="Updeted files">
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27/Lab029.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,19 +73,25 @@
     "Application.Lab013.executor": "Run",
     "Application.Lab014.executor": "Run",
     "Application.Lab015.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab023.executor": "Run",
+    "Application.Lab024.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/ATB7xJavaLearning/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/ATB7xJavaLearning/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab015">
-    <configuration name="Lab011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23.Lab011" />
+  <component name="RunManager" selected="Application.Lab029">
+    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27.Lab023" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23.*" />
+          <option name="PATTERN" value="ex_27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23.Lab012" />
+    <configuration name="Lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27.Lab024" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23.*" />
+          <option name="PATTERN" value="ex_27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23.Lab013" />
+    <configuration name="Lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27.Lab025" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23.*" />
+          <option name="PATTERN" value="ex_27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23.Lab014" />
+    <configuration name="Lab026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27.Lab026" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23.*" />
+          <option name="PATTERN" value="ex_27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_23.Lab015" />
+    <configuration name="Lab029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27.Lab029" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_23.*" />
+          <option name="PATTERN" value="ex_27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab015" />
-        <item itemvalue="Application.Lab014" />
-        <item itemvalue="Application.Lab012" />
-        <item itemvalue="Application.Lab013" />
-        <item itemvalue="Application.Lab011" />
+        <item itemvalue="Application.Lab029" />
+        <item itemvalue="Application.Lab026" />
+        <item itemvalue="Application.Lab025" />
+        <item itemvalue="Application.Lab024" />
+        <item itemvalue="Application.Lab023" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722085592925</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updeted files">
+      <option name="closed" value="true" />
+      <created>1722093673926</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722093673926</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
