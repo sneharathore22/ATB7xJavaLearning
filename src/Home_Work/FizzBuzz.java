@@ -2,7 +2,7 @@ package Home_Work;
 
 import java.util.Scanner;
 
-public class Fizz_Buzz {
+public class FizzBuzz {
     public static void main(String[] args) {
      //   Write a program that prints numbers from 1 to 100. However, for multiples of 3,
         //   print "Fizz" instead of the number, and for multiples of 5, print "Buzz."
@@ -10,7 +10,10 @@ public class Fizz_Buzz {
 
 
       Scanner sc= new Scanner(System.in);
-        for (int i= 1; 1<=100; i++){
+      System.out.println("enter the no");
+      int n =sc.nextInt();
+
+        for (int i= 1; 1<=n; i++){
             if (i%3==0 && i%5==0)
             {
                 System.out.println("FizzBuss");
