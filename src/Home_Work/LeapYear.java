@@ -2,7 +2,7 @@ package Home_Work;
 
 import java.util.Scanner;
 
-public class Leap_Year {
+public class LeapYear {
 
     public static void main(String[] args) {
 
