@@ -11,7 +11,7 @@ public class Lab097 {
                 break;
             case 004,005,006:
                 System.out.println("it is a machine gadget");
-                break;
+        //        break;
             default:
                 System.out.println("None");
 

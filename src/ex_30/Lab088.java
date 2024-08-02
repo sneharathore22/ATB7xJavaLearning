@@ -15,7 +15,9 @@ public class Lab088 {
 
         if (num1>num2){
         System.out.println(num1);
-        } else if (num2>num1){
+        }
+
+        else if (num2>num1){
             System.out.println(num2);
 
             }

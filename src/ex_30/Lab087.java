@@ -10,7 +10,6 @@ public class Lab087 {
         //Data type - int
         //How to take input in the java - scanner -class
         //nextInt() -input
-
         //do we need conversion or directly
         //rough logic - num%2== 0 even or odd
         //optimize
