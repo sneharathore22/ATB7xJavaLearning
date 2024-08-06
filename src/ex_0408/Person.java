@@ -1,16 +1,16 @@
 package ex_0408;
 
- class Person {
+ public class Person {
 
     //Attribute
     String name;
     int roll_no;
     String hands;
-    String hender;
+    String gender;
 
 
 
-    //Behavior -> methods
+    //Behavior -> methods(fucntion within the class)
 
     void walk(){
 
