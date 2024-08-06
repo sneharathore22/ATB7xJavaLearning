@@ -1,6 +1,10 @@
 package ex_0408;
 
 public class Lab158 {
+        //ClassName Object_ref=Object() -> ( new ClassName())
+        //Class -> blueprint -Attribute,Behv,-Not Real (blueprint)
+        //Object-> Real Entites -> Class -A, Behv => functions
+
     public static void main(String[] args) {
             Bank bank1 =new Bank();
             Bank bank2 =new Bank();

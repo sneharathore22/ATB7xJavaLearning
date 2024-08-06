@@ -2,7 +2,7 @@ package ex_0408;
 
 public class Animal {
 
-    String name;
+    String name = "Lol";
     String color;
 
 
@@ -14,5 +14,6 @@ public class Animal {
         Animal animalRef2 = new Animal();
         Animal animalRef3 = new Animal();
         Animal animalRef4 = animalRef2;
+        System.out.println(animalRef3.name);
     }
 }

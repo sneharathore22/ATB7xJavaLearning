@@ -6,14 +6,14 @@ public class Car {
     // beahv / methods / functionaltiy
 }
 
-class person2 {
+class Engine {
     // //attribute, data member, instance variable, propeties
 
     //behv/ methods/ functionality
 }
 
 
-class person3 {
+class Tyre {
     // //attribute, data member, instance variable, propeties
 
     //behv/ methods/ functionality
