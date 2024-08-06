@@ -5,20 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/ex_06/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06/Lab160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06/Lab161.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06/Lab162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06/Lab163.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06/Lab164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_0608/ATBPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_0608/Lab165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_0608/Lab166.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_0408/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_0408/Lab156.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_0408/Lab160.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_0408/Lab161.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_0408/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0408/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_0408/Personn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_0408/ATBPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_0408/Lab165.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0608/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06/Lab160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0608/Lab160.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06/Lab161.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0608/Lab161.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06/Lab162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0608/Lab162.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06/Lab163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0608/Lab163.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06/Lab164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0608/Lab164.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_0608/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +157,7 @@
     "Application.Lab161.executor": "Run",
     "Application.Lab162.executor": "Run",
     "Application.Lab165.executor": "Run",
+    "Application.Lab166.executor": "Run",
     "Application.Leap_Year.executor": "Run",
     "Application.LeftTriangleStarPatter.executor": "Run",
     "Application.P001.executor": "Run",
@@ -171,6 +171,7 @@
     "Application.RightTriangleStarPattern.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.ex_06.Lab161.executor": "Run",
+    "Application.ex_0608.Lab165.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -193,20 +194,7 @@
       <recent name="ex_0408" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab162">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_0408.Animal" />
-      <module name="ATB7xJavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_0408.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab166">
     <configuration name="Lab161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_0408.Lab161" />
       <module name="ATB7xJavaLearning" />
@@ -221,11 +209,11 @@
       </method>
     </configuration>
     <configuration name="Lab162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06.Lab162" />
+      <option name="MAIN_CLASS_NAME" value="ex_0608.Lab162" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06.*" />
+          <option name="PATTERN" value="ex_0608.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab165" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_0408.Lab165" />
+    <configuration name="Lab166" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_0608.Lab166" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_0408.*" />
+          <option name="PATTERN" value="ex_0608.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +234,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_06.Lab161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06.Lab161" />
+    <configuration name="ex_0608.Lab161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_0608.Lab161" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06.*" />
+          <option name="PATTERN" value="ex_0608.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_0608.Lab165" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_0608.Lab165" />
+      <module name="ATB7xJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_0608.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab166" />
+        <item itemvalue="Application.ex_0608.Lab165" />
         <item itemvalue="Application.Lab162" />
-        <item itemvalue="Application.ex_06.Lab161" />
+        <item itemvalue="Application.ex_0608.Lab161" />
         <item itemvalue="Application.Lab161" />
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.Lab165" />
       </list>
     </recent_temporary>
   </component>
@@ -518,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722940971638</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="java">
+      <option name="closed" value="true" />
+      <created>1722946074050</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1722946074050</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

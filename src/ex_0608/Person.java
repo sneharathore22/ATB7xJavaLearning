@@ -1,4 +1,4 @@
-package ex_06;
+package ex_0608;
 
 public class Person {
     String name;
