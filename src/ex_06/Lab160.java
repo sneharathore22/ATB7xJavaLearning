@@ -1,4 +1,4 @@
-package ex_0408;
+package ex_06;
 
 public class Lab160 {
     public static void main(String[] args) {

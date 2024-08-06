@@ -1,6 +1,6 @@
 package ex_0408;
 
- public class Person {
+ class Person {
 
     //Attribute
     String name;
@@ -10,7 +10,7 @@ package ex_0408;
 
 
 
-    //Behavior -> methods(fucntion within the class)
+    //Behavior -> methods
 
     void walk(){
 

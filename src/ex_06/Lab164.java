@@ -1,7 +1,12 @@
-package ex_0408;
+package ex_06;
 
 public class Lab164 {
+    String name;
+
+    void talk() {
+    }
+
     public static void main(String[] args) {
-        Lab163 a =new Lab163();
+
     }
 }
