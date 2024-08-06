@@ -4,29 +4,29 @@ public class Lab153 {
 
     public static void main(String[] args) {
 
-        //Class -Attribute/properties -data Types - primitive/non premitive
-        //Class- Behaviour
+        //OOps -Concept
+        //Real Life problem -concept
+        //Creating -New planet
+        //Human
+        //Attributes -> 2 hand, eyes, nose, mouth
+        //Behavior ->   walk,eat,talk,sleep.hear
 
-        //object - real entity-class-
-        //ClassName classRef =newClassName();
+        //Amit -> humen
+        //A -> amit
 
-        //new ClassName();- object
-        //classRef -class Ref
-        //ClassName=Class Name which blueprint you are using
+        //Blueprint -Class -Person
 
-        BuildingBP dlfRef =new BuildingBP();
-        dlfRef.name = "DLF Pvt Building";
-        dlfRef.noOfrooms=100;
-
-        dlfRef.useLift();
+        Person person = new Person();
+        //Real things class ->object
+        person.name= "Amit";
+        person.roll_no = 44;
 
 
+        Person person2 = new Person();
+        //Real things class ->object
+        person.name= "Sneha";
+        person.roll_no = 22;
 
-        BuildingBP prestigeRef =new BuildingBP();
-        prestigeRef.name = "DLF Pvt Building";
-        prestigeRef.noOfrooms=100;
-
-        prestigeRef.useLift();
 
     }
 }

@@ -1,12 +1,15 @@
 package ex_0408;
 
 public class Dog {
- //   public static void main(String[] args) {
-        String name;
+        //Data members, properties / Attributes
+
+       public String name;
         String color;
         String breed;
         int age;
 
+
+        //Methods /Behaviour
         void walk(){}
         void talk(){}
         void sleep(){}
