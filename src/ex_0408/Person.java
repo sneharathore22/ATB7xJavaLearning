@@ -1,6 +1,6 @@
 package ex_0408;
 
-public class Person {
+ class Person {
 
     //Attribute
     String name;
@@ -28,3 +28,4 @@ public class Person {
 
     }
 }
+
