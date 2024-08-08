@@ -6,11 +6,15 @@ public class ATBPerson {
     long phone;
 
     //DC
-     ATBPerson() {
-            System.out.println("Object is created");
-            }
+    ATBPerson() {
+        System.out.println("Object is created");
+    }
 
-            ATBPerson(String nameGiven){
-                    this.name=nameGiven;
-            }
+    ATBPerson(String nameGiven) {
+        this.name = nameGiven;
+    }
+
+    ATBPerson(String nameGiven, String phone) {
+        this.name = nameGiven;
+    }
 }
