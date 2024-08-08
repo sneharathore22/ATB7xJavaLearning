@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="java">
+      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/AccessModifier/Lab176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/AccessModifier/criminal/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/AccessModifier/police/Cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/AccessModifier/police/JrCop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/AccessModifier/police/Sneha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home_Work/SecondHeighestSalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hsA/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hsA/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hsA/Tyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/Tyres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hsA/isA/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/isA/Tesla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/realTime/Lab176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/realTime/Lab176.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +167,9 @@
     "Application.P007.executor": "Run",
     "Application.P008.executor": "Run",
     "Application.RightTriangleStarPattern.executor": "Run",
+    "Application.SecondHeighestSalary.executor": "Run",
     "Application.TestCase2.executor": "Run",
+    "Application.Thief.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.ex_06.Lab161.executor": "Run",
     "Application.ex_0608.Lab165.executor": "Run",
@@ -192,33 +195,7 @@
       <recent name="ex_0408" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab175">
-    <configuration name="Lab167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_0608.Lab167" />
-      <module name="ATB7xJavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_0108.ex_0608.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab170" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_0108.ex_0608.Singleinhertitance.Lab170" />
-      <module name="ATB7xJavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_0108.ex_0608.Singleinhertitance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SecondHeighestSalary">
     <configuration name="Lab174" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August.ex_0108.ex_0608.multilevelinheritance.Lab174" />
       <module name="ATB7xJavaLearning" />
@@ -245,6 +222,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondHeighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Home_Work.SecondHeighestSalary" />
+      <module name="ATB7xJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Home_Work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August.ex_0108.ex_0608.multilevelinheritance.real.TestCase2" />
       <module name="ATB7xJavaLearning" />
@@ -258,13 +248,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_0108.AccessModifier.criminal.Thief" />
+      <module name="ATB7xJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_0108.AccessModifier.criminal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondHeighestSalary" />
+        <item itemvalue="Application.Thief" />
         <item itemvalue="Application.Lab175" />
         <item itemvalue="Application.TestCase2" />
         <item itemvalue="Application.Lab174" />
-        <item itemvalue="Application.Lab170" />
-        <item itemvalue="Application.Lab167" />
       </list>
     </recent_temporary>
   </component>
@@ -581,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723103442108</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="java">
+      <option name="closed" value="true" />
+      <created>1723103495986</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1723103495986</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
