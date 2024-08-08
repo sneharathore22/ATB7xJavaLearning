@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hierachicalinheritance/Ananya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hierachicalinheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hierachicalinheritance/Lab175.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hierachicalinheritance/Shuchi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hierachicalinheritance/Vishu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/ex/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/ex/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/ex/Tyres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/ex/isA/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Lab176.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Mother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/realTime/Lab176.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -557,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723099866780</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="java">
+      <option name="closed" value="true" />
+      <created>1723102842188</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1723102842188</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
