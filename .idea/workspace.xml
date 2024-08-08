@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/realTime/Lab176.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hsA/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hsA/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hsA/Tyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/Tyres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hsA/isA/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_0108/hsA/isA/Tesla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/realTime/Lab176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/realTime/Lab176.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,11 +233,11 @@
       </method>
     </configuration>
     <configuration name="Lab175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_0108.hierachicalinheritance.Lab175" />
+      <option name="MAIN_CLASS_NAME" value="August.ex_0108.ex_0608.hierachicalinheritance.Lab175" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.ex_0108.hierachicalinheritance.*" />
+          <option name="PATTERN" value="August.ex_0108.ex_0608.hierachicalinheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -552,7 +557,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723102842188</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="java">
+      <option name="closed" value="true" />
+      <created>1723103266014</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1723103266014</updated>
+    </task>
+    <task id="LOCAL-00037" summary="java">
+      <option name="closed" value="true" />
+      <created>1723103313603</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1723103313603</updated>
+    </task>
+    <task id="LOCAL-00038" summary="java">
+      <option name="closed" value="true" />
+      <created>1723103442108</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1723103442108</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
