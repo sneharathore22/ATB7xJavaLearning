@@ -1,4 +1,4 @@
-package August.ex_0108.multipleinheritance;
+package August.ex_0108.ex_0608.multipleinheritance;
 
 public class Father {
     void home(){

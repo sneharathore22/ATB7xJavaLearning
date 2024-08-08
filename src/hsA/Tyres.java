@@ -1,4 +1,4 @@
-package August.ex_0108.hsA.ex;
+package hsA;
 
 public class Tyres {
         void rolling(){
