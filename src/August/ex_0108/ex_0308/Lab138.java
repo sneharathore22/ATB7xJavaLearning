@@ -4,7 +4,7 @@ public class Lab138 {
 
         public static void main(String[] args) {
 
-            int[]marks_10_board = {90,91,92,93,100};
+            int[]marks_10_board = {90,91,92,65,93,100};
             //elements are fixed
             //len - 6
             //who fixed - 3
