@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/RealTimeInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/superthiskeyword/Lab183.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/superthiskeyword/Lab184.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/superthiskeyword/Lab185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/Lab187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_car/i10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August/ex_0108/superthiskeyword/Lab183.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +169,7 @@
     "Application.Lab181.executor": "Run",
     "Application.Lab182.executor": "Run",
     "Application.Lab183.executor": "Run",
+    "Application.Lab187.executor": "Run",
     "Application.Leap_Year.executor": "Run",
     "Application.LeftTriangleStarPatter.executor": "Run",
     "Application.P001.executor": "Run",
@@ -203,20 +209,7 @@
       <recent name="ex_0408" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab183">
-    <configuration name="Lab179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_0108.Encapsulation.Lab179" />
-      <module name="ATB7xJavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_0108.Encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab187">
     <configuration name="Lab180" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August.ex_0108.Encapsulation.Lab180" />
       <module name="ATB7xJavaLearning" />
@@ -269,13 +262,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_car.Lab187" />
+      <module name="ATB7xJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab187" />
         <item itemvalue="Application.Lab183" />
         <item itemvalue="Application.Lab182" />
         <item itemvalue="Application.Lab181" />
         <item itemvalue="Application.Lab180" />
-        <item itemvalue="Application.Lab179" />
       </list>
     </recent_temporary>
   </component>
@@ -624,7 +630,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723379143408</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Java">
+      <option name="closed" value="true" />
+      <created>1723621416894</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1723621416894</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
