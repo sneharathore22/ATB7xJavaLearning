@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/Loan/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/Loan/Lab186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/Loan/Lab187.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_0108/Loan/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reallifeex/Baseclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reallifeex/CHOMRE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reallifeex/FireFox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reallifeex/GrandBaseCLass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reallifeex/Lab189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_0108statickeywords/Lab191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_1408Interface/Enginee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_1408Interface/Lab189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_1408Interface/Lab190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_1408Interface/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_1408Interface/ex2/CarC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_1408Interface/ex2/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_1408Interface/ex2/Sneha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Lab191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multipleinheritance/Son.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reallifeex/GrandBaseCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reallifeex/GrandBaseCLass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -172,6 +177,7 @@
     "Application.Lab183.executor": "Run",
     "Application.Lab187.executor": "Run",
     "Application.Lab189.executor": "Run",
+    "Application.Lab191.executor": "Run",
     "Application.Leap_Year.executor": "Run",
     "Application.LeftTriangleStarPatter.executor": "Run",
     "Application.P001.executor": "Run",
@@ -211,26 +217,13 @@
       <recent name="ex_0408" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab189">
+  <component name="RunManager" selected="Application.Lab191">
     <configuration name="August.ex_0108.Loan.Lab187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August.ex_0108.Loan.Lab187" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="August.ex_0108.Loan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_0108.methodoveridding.Lab182" />
-      <module name="ATB7xJavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_0108.methodoveridding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,13 +270,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab191" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_0108statickeywords.Lab191" />
+      <module name="ATB7xJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_0108statickeywords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab191" />
         <item itemvalue="Application.Lab189" />
         <item itemvalue="Application.August.ex_0108.Loan.Lab187" />
         <item itemvalue="Application.Lab187" />
         <item itemvalue="Application.Lab183" />
-        <item itemvalue="Application.Lab182" />
       </list>
     </recent_temporary>
   </component>
@@ -648,7 +654,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723631728412</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Java">
+      <option name="closed" value="true" />
+      <created>1723653262619</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1723653262619</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
