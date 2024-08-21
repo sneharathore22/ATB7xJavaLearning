@@ -14,6 +14,10 @@ class OC{
         System.out.println("OC_M1");
     }
 
+    static class P{
+
+    }
+
     class InnerClass{
         Integer b =20;
         void Inner_m2(){
