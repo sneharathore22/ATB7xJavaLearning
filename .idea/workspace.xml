@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab227.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab229.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab231.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab232.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab233.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/Lab235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab235.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +193,7 @@
     "Application.Lab231.executor": "Run",
     "Application.Lab232.executor": "Run",
     "Application.Lab234.executor": "Run",
+    "Application.Lab235.executor": "Run",
     "Application.Leap_Year.executor": "Run",
     "Application.LeftTriangleStarPatter.executor": "Run",
     "Application.P001.executor": "Run",
@@ -343,14 +335,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721747124002</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added new files">
-      <option name="closed" value="true" />
-      <created>1721748531390</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1721748531390</updated>
     </task>
     <task id="LOCAL-00003" summary="new files">
       <option name="closed" value="true" />
@@ -736,7 +720,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724413544152</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Java">
+      <option name="closed" value="true" />
+      <created>1724656717080</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1724656717080</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

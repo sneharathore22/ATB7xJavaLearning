@@ -18,6 +18,11 @@ public class Lab235 {
         v.add("Sneha");
         v.add("Vishu");
         System.out.println(v);
+        //Only Problem with the Vector
+        //It is Thread Safe, Synchronised
+        //It will be time-consuming
+        //One by one - usage
+        //Slower
 
     }
 }
