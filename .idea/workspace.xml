@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb458035-8703-4479-82e4-c069538d52e1" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab224.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2208/Lab226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab227.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab228.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab229.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab233.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Lab235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,6 +197,11 @@
     "Application.Lab223.executor": "Run",
     "Application.Lab224.executor": "Run",
     "Application.Lab226.executor": "Run",
+    "Application.Lab228.executor": "Run",
+    "Application.Lab230.executor": "Run",
+    "Application.Lab231.executor": "Run",
+    "Application.Lab232.executor": "Run",
+    "Application.Lab234.executor": "Run",
     "Application.Leap_Year.executor": "Run",
     "Application.LeftTriangleStarPatter.executor": "Run",
     "Application.P001.executor": "Run",
@@ -228,6 +233,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="CollectionFramework" />
       <recent name="ex_06" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -238,13 +244,13 @@
       <recent name="ex_0408" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab226">
-    <configuration name="Lab221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception2208.Lab221" />
+  <component name="RunManager" selected="Application.Lab235">
+    <configuration name="Lab230" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Lab230" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception2208.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception2208.Lab222" />
+    <configuration name="Lab231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Lab231" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception2208.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab223" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception2208.Lab223" />
+    <configuration name="Lab232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Lab232" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception2208.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception2208.Lab224" />
+    <configuration name="Lab234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Lab234" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception2208.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception2208.Lab226" />
+    <configuration name="Lab235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Lab235" />
       <module name="ATB7xJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception2208.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,19 +319,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run Java Program" />
-      <item itemvalue="Application.Lab226" />
-      <item itemvalue="Application.Lab222" />
-      <item itemvalue="Application.Lab223" />
-      <item itemvalue="Application.Lab224" />
-      <item itemvalue="Application.Lab221" />
+      <item itemvalue="Application.Lab230" />
+      <item itemvalue="Application.Lab231" />
+      <item itemvalue="Application.Lab232" />
+      <item itemvalue="Application.Lab234" />
+      <item itemvalue="Application.Lab235" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab226" />
-        <item itemvalue="Application.Lab224" />
-        <item itemvalue="Application.Lab223" />
-        <item itemvalue="Application.Lab222" />
-        <item itemvalue="Application.Lab221" />
+        <item itemvalue="Application.Lab235" />
+        <item itemvalue="Application.Lab234" />
+        <item itemvalue="Application.Lab232" />
+        <item itemvalue="Application.Lab231" />
+        <item itemvalue="Application.Lab230" />
       </list>
     </recent_temporary>
   </component>
@@ -337,14 +343,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721747124002</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Added 2 new files">
-      <option name="closed" value="true" />
-      <created>1721748365976</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1721748365976</updated>
     </task>
     <task id="LOCAL-00002" summary="Added new files">
       <option name="closed" value="true" />
@@ -730,7 +728,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724231401669</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Java">
+      <option name="closed" value="true" />
+      <created>1724413544152</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1724413544152</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
